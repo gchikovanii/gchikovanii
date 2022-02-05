@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giorgi,Back-End Developer from Georgia!
+- 👋 Hi, I’m Giorgi. Back-End Developer from Georgia!
 - 🌱 I’m currently learning .Net and AngularJs
 - 💥 Skilled in: C# && Asp.net Core.
 - ⚡ I’m currently learning AngularJs and developing my skills in .Net
