@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giorgi! Back-End Developer from Georgia!
 - 💥 Skilled in: C# && Asp.net Core.
-- ⚡ I’m actually developing my skills in .Net and learning Angular
-- 👀 I’m interested in creating websites with Angular and Asp.net Core.
+- ⚡ I’m actually developing my skills in .Net and learning MVC/Blazor
+- 👀 I’m interested in creating interesting websites.
 - 💯 Open to work on interesting projects!
 - 📫 gchikovanii25@gmail.com
 
