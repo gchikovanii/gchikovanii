@@ -1,4 +1,4 @@
-👋 Hello! I'm a 22-year-old .NET developer from Georgia 🇬🇪
+👋 Hello! I'm a 22-year-old .NET developer from Georgia 
 
 🚀 Passionate about crafting robust and scalable solutions using the power of .NET technologies, I thrive on turning ideas into efficient and elegant code.
 
