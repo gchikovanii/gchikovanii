@@ -14,7 +14,7 @@ Cloud Services: Integrating cloud services like Google Cloud Translation API int
 Wisebuzzer: My startup's flagship game, 'Kalakobana,' showcasing my ability to innovate and excel in the tech industry.
 Emphaty Wave: Developing an eCommerce website for self-care products, utilizing local and endemic flowers and plants.
 
-# 📚 Skills
+# ⚡️ Skills
 Programming Languages: C#
 Frameworks: ASP.NET Core, Angular || Blazor
 Tools: Visual Studio, Git, Docker
