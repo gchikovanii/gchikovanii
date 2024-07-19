@@ -1,4 +1,5 @@
-# Giorgi Chikovani .NET Developer | Passionate Coder | Tech Enthusiast
+# Giorgi Chikovani 
+.NET Developer | Passionate Coder | Tech Enthusiast
 
 # 🚀 About Me
 I'm a 23-year-old .NET developer from Georgia, driven by a passion for crafting robust and scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
