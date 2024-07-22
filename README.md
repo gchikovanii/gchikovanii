@@ -15,15 +15,15 @@ Wisebuzzer: My startup's flagship game, 'Kalakobana,' showcasing my ability to i
 Emphaty Wave: Developing an eCommerce website for self-care products, utilizing local and endemic flowers and plants.
 
 # ⚡️ Skills
-Programming Languages: C#
-Frameworks: ASP.NET Core, Angular || Blazor
-Tools: Visual Studio, Git, Docker
-Database: SQL Server, ORM's: Entity Framework, Dapper
-Other: Dependency Injection, Design Patterns, Clean Architecture
+Programming Languages: C#.
+Frameworks: ASP.NET Core, Angular || Blazor.
+Tools: Visual Studio, Git, Docker.
+Database: SQL Server, ORM's: Entity Framework, Dapper.
+Other: Dependency Injection, Design Patterns, Clean Architecture.
 
 # 👨‍🎓 Education
 
-Bachelor's in Information Technology: Business and Technology University
+Bachelor's in Information Technology: Business and Technology University.
 IT Academy and Step Georgia: Acquired valuable skills in software development.
 Gita 3000 IT Course: ASP.NET Development.
 Internship at TBC Bank: Gained practical experience in a real-world environment.
