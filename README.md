@@ -35,5 +35,6 @@ I'm always open to learning, sharing, and collaborating on exciting projects. Le
 GitHub: https://github.com/gchikovanii
 LinkedIn: https://www.linkedin.com/in/giorgi-chikovani-063870228/
 Email: gchikovanii25@gmail.com
+Website: https://gchikovanii25.netlify.app/
 
 # Happy coding! 🖥️💡
