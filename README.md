@@ -12,7 +12,7 @@ Cloud Services: Integrating cloud services like Google Cloud Translation API int
 
 # 🌐 TOP Projects
 Wisebuzzer: My startup's flagship game, 'Kalakobana,' showcasing my ability to innovate and excel in the tech industry.
-Emphaty Wave: Developing an eCommerce website for self-care products, utilizing local and endemic flowers and plants.
+Empathy Wave: Developing an eCommerce website for self-care products, utilizing local and endemic flowers and plants.
 
 # ⚡️ Skills
 Programming Languages: C#.
