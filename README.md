@@ -2,17 +2,13 @@
 .NET Developer | Passionate Coder | Tech Enthusiast
 
 # 🚀 About Me
-I'm a 23-year-old .NET developer from Georgia, driven by a passion for crafting robust and scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
+I'm a 24-year-old .NET developer from Georgia, driven by a passion for crafting robust and scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
 
 # 💻 What I Do
 
 .NET Development: Building scalable web applications and APIs with ASP.NET Core.
 Frontend Development: Creating responsive and dynamic user interfaces using Angular and TypeScript.
 Cloud Services: Integrating cloud services like Google Cloud Translation API into applications.
-
-# 🌐 TOP Projects
-Wisebuzzer: My startup's flagship game, 'Kalakobana,' showcasing my ability to innovate and excel in the tech industry.
-Empathy Wave: Developing an eCommerce website for self-care products, utilizing local and endemic flowers and plants.
 
 # ⚡️ Skills
 Programming Languages: C#.
