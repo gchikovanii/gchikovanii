@@ -2,7 +2,7 @@
 Passionate Coder and Tech Enthusiast
 
 # 🚀 About Me
-I'm a 24-year-old .NET developer from Georgia, driven by a passion for creating scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
+I'm a 25-year-old .NET developer from Georgia, driven by a passion for creating scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
 
 # 💻 What I Do
 
