@@ -1,47 +1,47 @@
-# Giorgi Chikovani 
-Passionate Coder and Tech Enthusiast
+# Giorgi Chikovani
 
-# 🚀 About Me
-I'm a 25-year-old .NET developer from Georgia, driven by a passion for creating scalable solutions using the power of .NET technologies. I thrive on turning ideas into efficient and elegant code, exploring the vast world of software development, and diving into the intricacies of C# and ASP.NET.
+.NET backend engineer based in Tbilisi, Georgia.
 
-# 💻 What I Do
+I build production systems across digital banking, enterprise automation, integrations, and real-time applications. My primary focus is backend development with C# and the .NET ecosystem.
 
-RESTful API Development: My primary expertise is in building scalable and efficient REST APIs using ASP.NET Core—this is where I excel.
+## Current work
 
-.NET Development: I focus on crafting clean and maintainable backend systems with a strong emphasis on performance and best practices.
+- Building digital onboarding and integration services at ProCredit Bank Georgia
+- Developing Dynamics 365 automation and OpenWebUI integrations at Elemental Computing
+- Co-building Satave and the real-time multiplayer backend for Kalakobana
 
-Cloud Integration: I have experience integrating cloud services, such as the Google Cloud Translation API, to enhance application functionality.
+## Technical focus
 
-Frontend Experience: My main focus is on backend architecture, but I have worked with Angular and TypeScript to create responsive user interfaces when needed.
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, background services
+- **Architecture:** Distributed systems, microservices, event-driven communication
+- **Data:** SQL Server, T-SQL, Entity Framework Core, Dapper, Redis, Cosmos DB
+- **Messaging and real time:** SignalR, RabbitMQ, MassTransit
+- **Cloud and operations:** Azure, Docker, OpenTelemetry
+- **Enterprise platforms:** Microsoft Dynamics 365, OpenWebUI
 
-# ⚡️ Skills
-Languages: C# (primary), TypeScript.
+## Selected work
 
-Backend Development: RESTful APIs using ASP.NET Core, with a focus on clean code, maintainability, and performance. Proficient in microservices architecture, background services, and transaction handling.
+### Kalakobana
 
-Frontend Development: Solid experience with Angular and TypeScript for building responsive, dynamic user interfaces.
+Real-time multiplayer word game developed by Satave.
 
-Cloud & DevOps: Hands-on with Google Cloud Translation API, HealthChecks-UI, and containerization using Docker.
+I designed and built its backend architecture using ASP.NET Core, SignalR, Redis, RabbitMQ, MassTransit, Cosmos DB, and Azure.
 
-Databases & ORMs: NoSql(MongoDB, CosmosDB) ,SQL Server, Entity Framework, Dapper — with deep understanding of relational modeling, transactions, and performance optimization.
+### Enterprise and banking systems
 
-Architecture & Design: Strong grasp of Clean Architecture, SOLID Principles, Dependency Injection, and common Design Patterns.
+My professional work includes digital customer onboarding, identity-verification integrations, performance-sensitive T-SQL operations, Dynamics 365 automation, platform modernization, and production tooling.
 
-Tools & Ecosystem: Visual Studio, Git, Redis, Swagger, MediatR, FluentValidation, ReSharper
+Some of this work is private, but public case studies are available on my portfolio.
 
-# 👨‍🎓 Education
+## Education
 
-Bachelor's in Information Technology: Business and Technology University.
-IT Academy and Step Georgia: Acquired valuable skills in software development(Full-Stack Development).
-Gita International IT Course: ASP.NET Core Development.
+**Bachelor’s degree in Information Technology**  
+Business and Technology University
 
+Additional training completed programs in full-stack development and ASP.NET Core development.
 
-# 🤝 Let's Connect
-I'm eager to learn, share, and collaborate on exciting projects. Let's connect and make a positive impact through coding!
+## Contact
 
-GitHub: https://github.com/gchikovanii
-LinkedIn: https://www.linkedin.com/in/giorgi-chikovani-063870228/
-Email: gchikovanii25@gmail.com
-Website: https://gchikovanii25.netlify.app/
-
-# Happy coding! 🖥️💡
+- [LinkedIn](https://www.linkedin.com/in/giorgi-chikovani-063870228/)
+- [Portfolio](https://gchikovanii25.netlify.app/)
+- [Email](mailto:gchikovanii25@gmail.com)
